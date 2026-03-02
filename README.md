@@ -8,10 +8,16 @@ tomato maturity detection of segmentation
 ![image](all_image.png)
 *****
 ## Requirements
-Python                  3.9.19  
+Python3                  3.9.19  
 torch                   2.4.1  
 torchvision             0.19.1  
 mamba-ssm               2.2.4   
+numpy                   1.23.5  
+matplotlib              3.9.2  
+tqdm                    4.65.2  
+einops                  0.8.0  
+causal-conv1d           1.5.0.post8  
+
 
 *****
 ## Datasets
