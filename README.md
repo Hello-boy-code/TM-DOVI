@@ -21,7 +21,13 @@ causal-conv1d           1.5.0.post8
 
 *****
 ## Datasets
-
+| Datasets                             | smalltrack_r50_l234       |
+|--------------------------------------|---------------------------|
+| UAV20L(Suc./Pre.)                    | 0.600/0.797               |
+| UAVDT(Suc./Pre.)                     | 0.637/0.866               |
+| DTB70(Suc./Pre.)                     | 0.654/0.858               |
+| VisDrone2019-SOT-test-dev(Suc./Pre.) | 0.625/0.849               |
+| LaTOT(Suc./Pre./N.Pre.)              | 0.271/0.438/0.339         |
 *****
 ## Get start
 ****
