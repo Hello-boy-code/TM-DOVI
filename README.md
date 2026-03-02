@@ -21,8 +21,8 @@ causal-conv1d           1.5.0.post8
 
 *****
 ## Data preparation
-- Laboro Tomato: Download this dataset from Laboro(https://github.com/laboroai/LaboroTomato)
-- Yu Tomato: Download this dataset from Yu(http://dx.doi.org/10.57760/sciencedb.j00001.00946)
+- Laboro Tomato: Download this dataset from [Laboro](https://github.com/laboroai/LaboroTomato)
+- Yu Tomato: Download this dataset from [Yu](http://dx.doi.org/10.57760/sciencedb.j00001.00946)
 *****
 ## Get start
 ****
