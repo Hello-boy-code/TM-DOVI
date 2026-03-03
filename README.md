@@ -26,7 +26,7 @@ causal-conv1d           1.5.0.post8
 *****
 ## Get start
 - Train
-Running train.py
+Running <font color='blue'>train.py</font>
 - Test
 Running predict.py
 ****
