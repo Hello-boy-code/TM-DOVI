@@ -1,4 +1,4 @@
-# [TM-DOVI] ##tomato maturity detection of segmentation
+# [TM-DOVI] tomato maturity detection of segmentation
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![python](https://img.shields.io/badge/python-3.9-blue)
 ![pytorch](https://img.shields.io/badge/pytorch-2.4.1-purple)
