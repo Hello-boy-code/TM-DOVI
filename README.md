@@ -33,6 +33,6 @@ Running predict.py
 ## Pretrained Models
 
 ## Acknowledgement
-We are very grateful for these excellent works 
+We are very grateful for these excellent works [Hrnet](https://github.com/bubbliiiing/hrnet-pytorch)、[Vision mamba](https://github.com/hustvl/Vim), which have provided the basis for our framework.
 *****
 ## Citation
