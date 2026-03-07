@@ -35,15 +35,14 @@ Model Weights
 ****
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
-| Labora Tomato   | https://huggingface.co/hustvl/Vim-tiny-midclstok |
+| Labora Tomato   |  |
 ****
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
-| Yu Tomato                                             |
-| Normal light  | https://huggingface.co/hustvl/Vim-tiny-midclstok |
-| Artificial light  | https://huggingface.co/hustvl/Vim-small-midclstok|
-| Faint light   | https://huggingface.co/hustvl/Vim-small-midclstok|
-| Sodium yellow light    | https://huggingface.co/hustvl/Vim-base-midclstok |
+| Normal light  |  |
+| Artificial light  | |
+| Faint light   | |
+| Sodium yellow light    |  |
 
 ## Acknowledgement
 We are very grateful for these excellent works [Hrnet](https://github.com/bubbliiiing/hrnet-pytorch)、[Vision mamba](https://github.com/hustvl/Vim), which have provided the basis for our framework.
