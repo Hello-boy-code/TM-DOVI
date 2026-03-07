@@ -39,6 +39,7 @@ Model Weights
 ****
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
+| <center><strong>Yu Tomato</strong></center> | <center></center> |
 | Normal light  |  |
 | Artificial light  | |
 | Faint light   | |
