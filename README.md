@@ -36,10 +36,6 @@ Model Weights
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
 | Labora Tomato   |  |
-****
-| Datasets       | Link                                 |
-|-------------|--------------------------------------------------|
-| <center><strong>Yu Tomato</strong></center> | <center></center> |
 | Normal light  |  |
 | Artificial light  | |
 | Faint light   | |
