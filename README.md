@@ -5,7 +5,7 @@
 
 
 ## A Robust Tomato Maturity Detection Method Against Occlusion and Variable Illumination
-![image](all_image.png)
+![image](figure/all_image.png)
 *****
 ## Requirements
 Python                  3.9.19  
