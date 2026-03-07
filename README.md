@@ -36,6 +36,7 @@ Model Weights
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
 | Labora Tomato   | https://huggingface.co/hustvl/Vim-tiny-midclstok |
+****
 | Datasets       | Link                                 |
 | Yu Tomato                                             |
 | Normal light  | https://huggingface.co/hustvl/Vim-tiny-midclstok |
