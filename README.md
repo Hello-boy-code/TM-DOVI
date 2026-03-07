@@ -31,12 +31,15 @@ Running > train.py
 Running predict.py
 ****
 ## Pretrained Models
-Model	#param.	Top-1 Acc.	Top-5 Acc.	Huggingface Repo
-Vim-tiny	7M	76.1	93.0	https://huggingface.co/hustvl/Vim-tiny-midclstok
-Vim-tiny⁺	7M	78.3	94.2	https://huggingface.co/hustvl/Vim-tiny-midclstok
-Vim-small	26M	80.5	95.1	https://huggingface.co/hustvl/Vim-small-midclstok
-Vim-small⁺	26M	81.6	95.4	https://huggingface.co/hustvl/Vim-small-midclstok
-Vim-base	98M	81.9	95.8	https://huggingface.co/hustvl/Vim-base-midclstok
+Model Weights
+******
+| Model       | #param. | Top-1 Acc. | Top-5 Acc. | Huggingface Repo                                  |
+|-------------|---------|------------|------------|--------------------------------------------------|
+| Vim-tiny    | 7M      | 76.1       | 93.0       | https://huggingface.co/hustvl/Vim-tiny-midclstok |
+| Vim-tiny⁺   | 7M      | 78.3       | 94.2       | https://huggingface.co/hustvl/Vim-tiny-midclstok |
+| Vim-small   | 26M     | 80.5       | 95.1       | https://huggingface.co/hustvl/Vim-small-midclstok|
+| Vim-small⁺  | 26M     | 81.6       | 95.4       | https://huggingface.co/hustvl/Vim-small-midclstok|
+| Vim-base    | 98M     | 81.9       | 95.8       | https://huggingface.co/hustvl/Vim-base-midclstok |
 
 ## Acknowledgement
 We are very grateful for these excellent works [Hrnet](https://github.com/bubbliiiing/hrnet-pytorch)、[Vision mamba](https://github.com/hustvl/Vim), which have provided the basis for our framework.
