@@ -37,9 +37,9 @@ Model Weights
 |-------------|--------------------------------------------------|
 | Labora Tomato   |  |
 | Normal light  | [Google Drive](https://drive.google.com/file/d/1eu6-y-zY43Iw235Je_JWpHrPGxaiwpi-/view?usp=drive_link) |
-| Artificial light  | |
-| Faint light   | |
-| Sodium yellow light    |  |
+| Artificial light  | [Google Drive](https://drive.google.com/file/d/1cMIuH_4v21uzWFNx_jo2I04AxcodpZGn/view?usp=drive_link) |
+| Faint light   | [Google Drive](https://drive.google.com/file/d/1XgTTpOkpkGRjr4DHq4mNAoeq0Ir32TLb/view?usp=drive_link) |
+| Sodium yellow light    | [Google Drive](https://drive.google.com/file/d/1JY4HlUZ8qL5vhcYERp5ZqJfHJkVYPXGz/view?usp=drive_link) |
 
 ## Acknowledgement
 We are very grateful for these excellent works [Hrnet](https://github.com/bubbliiiing/hrnet-pytorch)、[Vision mamba](https://github.com/hustvl/Vim), which have provided the basis for our framework.
