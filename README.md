@@ -36,7 +36,7 @@ Model Weights
 | Datasets       | Link                                 |
 |-------------|--------------------------------------------------|
 | Labora Tomato   |  |
-| Normal light  |  |
+| Normal light  | [Google Drive](https://drive.google.com/file/d/1eu6-y-zY43Iw235Je_JWpHrPGxaiwpi-/view?usp=drive_link) |
 | Artificial light  | |
 | Faint light   | |
 | Sodium yellow light    |  |
