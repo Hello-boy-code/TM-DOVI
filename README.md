@@ -25,10 +25,11 @@ causal-conv1d           1.5.0.post8
 - Yu Tomato: Download this dataset from [Yu](http://dx.doi.org/10.57760/sciencedb.j00001.00946)
 *****
 ## Get start
+
 - Train
 Running > train.py
 - Test
-Running predict.py
+Running > get_miou.py
 ****
 ## Pretrained Models
 Model Weights
